@@ -1,2 +1,2 @@
 50%, write some code at home
-
+write some python code at home
